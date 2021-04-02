@@ -1,0 +1,16 @@
+html,
+body,
+header,
+#intro{
+    height: 100%;
+}
+
+#intro {
+    background: url("https://wallpaperaccess.com/full/42545.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/Users/ginotasis/Documents/Coding Stuff/handbrake footage/formsubscription.css
